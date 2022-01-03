@@ -1,2 +1,2 @@
-# django_project
-fintech
+# yanapana
+yanapana fintech peruana
